@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="added gti pages" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k71Veg9izXsAZWga8tK7ucTclt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gti" />
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\images" />
+      <recent name="C:\IS117Download\student_download\homework\Project Part 4" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="" />
+      <created>1605036840836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605036840836</updated>
+      <workItem from="1605036842560" duration="1218000" />
+      <workItem from="1605048373027" duration="295000" />
+      <workItem from="1605634592336" duration="5717000" />
+      <workItem from="1605647355925" duration="23000" />
+      <workItem from="1605718542880" duration="3043000" />
+      <workItem from="1605728690803" duration="534000" />
+      <workItem from="1605729551659" duration="86000" />
+      <workItem from="1605730205765" duration="2217000" />
+      <workItem from="1605886478016" duration="2598000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1605634654100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605634654100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1605645382406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605645382406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Began work. Did a lot of homepage and What is page.">
+      <created>1605721598281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605721598281</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Began work. Did a lot of homepage and What is page.">
+      <created>1605728698465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605728698466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Began work. Did a lot of homepage and What is page.">
+      <created>1605729213700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605729213700</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Began work. Did a lot of homepage and What is page.">
+      <created>1605730235783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605730235783</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added GTI webpages">
+      <created>1605730421311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605730421311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added GTI webpages">
+      <created>1605730429504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605730429504</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added GTI webpages">
+      <created>1605730757427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605730757427</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added GTI webpages">
+      <created>1605730923522</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605730923522</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed page not loading">
+      <created>1605731048197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605731048197</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed strange margin issue">
+      <created>1605887589606</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605887589606</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Images hopefully">
+      <created>1605890884531</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605890884531</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Images hopefully">
+      <created>1605890909215</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605890909215</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added Images hopefully">
+      <created>1605891084876</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891084876</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added Images hopefully">
+      <created>1605891093770</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891093770</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added gti pages">
+      <created>1605891162712</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891162712</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added gti pages">
+      <created>1605891234923</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891234923</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added gti pages">
+      <created>1605891247610</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891247610</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added gti pages">
+      <created>1605891253789</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891253789</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/gtipages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/gtipages" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Began work. Did a lot of homepage and What is page." />
+    <MESSAGE value="Added GTI webpages" />
+    <MESSAGE value="fixed page not loading" />
+    <MESSAGE value="fixed strange margin issue" />
+    <MESSAGE value="Added Images hopefully" />
+    <MESSAGE value="added gti pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gti pages" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="344" key="#Notifications" timestamp="1605730332550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="344" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605730332550" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605637241428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605637241428" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605645304539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605645304539" />
+    <state x="627" y="349" key="Github.CreateGistDialog" timestamp="1605891273757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="627" y="349" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1605891273757" />
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605730218771" />
+    <state x="830" y="418" key="Github.ShareDialog" timestamp="1605645556703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605645556703" />
+    <state x="369" y="115" key="SettingsEditor" timestamp="1605886494125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605886494125" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605718853234" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1605891174659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605891174659" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605731051130" />
+    <state x="571" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605037355098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605037355098" />
+  </component>
+</project>
