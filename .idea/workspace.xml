@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -32,15 +32,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gti" />
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gtipages" />
       <recent name="C:\Users\berar\WebstormProjects\Project-Part-4" />
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gti" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\images" />
@@ -63,7 +64,7 @@
       <workItem from="1605728690803" duration="534000" />
       <workItem from="1605729551659" duration="86000" />
       <workItem from="1605730205765" duration="2217000" />
-      <workItem from="1605886478016" duration="2598000" />
+      <workItem from="1605886478016" duration="3076000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1605634654100</created>
@@ -205,7 +206,77 @@
       <option name="project" value="LOCAL" />
       <updated>1605891253789</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="added gti pages">
+      <created>1605891287525</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891287525</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added gti pages">
+      <created>1605891292458</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891292458</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added gti pages">
+      <created>1605891346660</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891346660</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added gti pages">
+      <created>1605891447431</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891447431</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added gti pages">
+      <created>1605891527010</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891527010</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added gti pages">
+      <created>1605891545921</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891545921</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added gti pages">
+      <created>1605891560076</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891560076</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added gti pages">
+      <created>1605891688763</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891688763</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added gti pages">
+      <created>1605891697939</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891697939</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added gti pages">
+      <created>1605891753258</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605891753258</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,9 +346,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605637241428" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605645304539">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1605891439198">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605891439198" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605645304539" />
     <state x="627" y="349" key="Github.CreateGistDialog" timestamp="1605891273757">
       <screen x="0" y="0" width="1536" height="824" />
@@ -293,10 +365,10 @@
     </state>
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605886494125" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605718853234" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1605891174659">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1605891472144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605891174659" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605891472144" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605731051130" />
     <state x="571" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605037355098">
       <screen x="0" y="0" width="1920" height="1040" />
