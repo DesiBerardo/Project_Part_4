@@ -1,0 +1,12 @@
+#specs{
+    margin: 25px;
+}
+
+#title{
+    text-align: center;
+    padding: 20px;
+}
+
+#writeup img{
+    border: black 1px solid;
+}
