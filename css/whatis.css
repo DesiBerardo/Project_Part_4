@@ -15,6 +15,13 @@
     transform: translate(-50%, -70%);
 }
 
+image{
+    height: auto;/* was 100% */
+    position: relative;
+    text-align: center;
+    padding:18.75% 0 0;/* create relationship between width and height */
+}
+
 #description1 p{
     margin: 25px;
     font-size: large;
