@@ -9,4 +9,15 @@
 
 #writeup img{
     border: black 1px solid;
+    width: 100%;
+    height: auto;
+
+}
+
+#left img{
+    float: left;
+}
+
+#right img{
+    float: left;
 }

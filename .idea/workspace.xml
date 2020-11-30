@@ -6,13 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="pop">
+      <change afterPath="$PROJECT_DIR$/images/logo.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/whatis.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/whatis.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gti.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gti.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk1.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk2.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk3.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk4.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk5.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/golfgtiwhatis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/golfgtiwhatis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whatisagti.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatisagti.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +45,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gtipages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gtipages" />
-      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\images" />
-      <recent name="C:\IS117Download\student_download\homework\Project Part 4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gtipages" />
       <recent name="C:\Users\berar\WebstormProjects\Project-Part-4" />
       <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gti" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IS117Download\student_download\homework\Project_Part_4\images" />
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\gtipages" />
+      <recent name="C:\Users\berar\WebstormProjects\Project-Part-4\images" />
+      <recent name="C:\IS117Download\student_download\homework\Project Part 4" />
     </key>
   </component>
   <component name="RunManager">
@@ -88,6 +93,7 @@
       <workItem from="1605897019968" duration="4165000" />
       <workItem from="1605902375045" duration="3160000" />
       <workItem from="1606352124891" duration="1194000" />
+      <workItem from="1606693142876" duration="1825000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1605634654100</created>
