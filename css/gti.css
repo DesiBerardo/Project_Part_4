@@ -1,5 +1,7 @@
+/*DEVELOPER: Desimir Berardo, IS117-005, Fall 2020 */
 #specs{
     margin: 25px;
+    font-family: Arial, sans-serif;
 }
 
 #title{
@@ -11,6 +13,8 @@
     border: black 1px solid;
     width: 100%;
     height: auto;
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
 
 }
 
@@ -19,5 +23,5 @@
 }
 
 #right img{
-    float: left;
+    float: right;
 }

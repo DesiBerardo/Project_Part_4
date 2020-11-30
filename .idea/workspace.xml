@@ -5,19 +5,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="pop">
-      <change afterPath="$PROJECT_DIR$/images/logo.ico" afterDir="false" />
+    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="fixed and added ico and carosuel. cant seem to fix images so *shrugs*">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gti.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gti.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/whatis.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/whatis.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk1.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk2.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk3.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk4.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtipages/mk5.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whatisagti.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatisagti.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1605897019968" duration="4165000" />
       <workItem from="1605902375045" duration="3160000" />
       <workItem from="1606352124891" duration="1194000" />
-      <workItem from="1606693142876" duration="1825000" />
+      <workItem from="1606693142876" duration="2430000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1605634654100</created>
@@ -354,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605907067789</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fixed and added ico and carosuel. cant seem to fix images so *shrugs*">
+      <created>1606695004702</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1606695004702</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +421,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="added gti pages" />
     <MESSAGE value="pop" />
-    <option name="LAST_COMMIT_MESSAGE" value="pop" />
+    <MESSAGE value="fixed and added ico and carosuel. cant seem to fix images so *shrugs*" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed and added ico and carosuel. cant seem to fix images so *shrugs*" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605730332550">
