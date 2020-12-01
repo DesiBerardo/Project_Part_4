@@ -5,10 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="fixerd titles">
+    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="background colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/whatis.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/whatis.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1606693142876" duration="2595000" />
       <workItem from="1606781405255" duration="17000" />
       <workItem from="1606837678764" duration="3665000" />
-      <workItem from="1606844946083" duration="2083000" />
+      <workItem from="1606844946083" duration="3257000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1605634654100</created>
@@ -411,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606846591171</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="background colors">
+      <created>1606847742585</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1606847742585</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +487,8 @@
     <MESSAGE value="ico" />
     <MESSAGE value="fixed font size and reformatted what is" />
     <MESSAGE value="fixerd titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixerd titles" />
+    <MESSAGE value="background colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="background colors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605730332550">
@@ -511,11 +519,11 @@
     </state>
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605897088390" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605718853234" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606846593269">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606847746807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605907117315" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606846593269" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606847746807" />
     <state x="571" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605037355098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

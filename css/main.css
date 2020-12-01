@@ -13,6 +13,10 @@ body{
 
 .card{
     background-color: #fffddd;
+    border: black 1px solid;
+}
+.form-group{
+    margin-top: 50px;
 }
 .footer {
     position: fixed;
