@@ -18,6 +18,10 @@
 
 }
 
+#writeup p{
+    font-size: 20px;
+}
+
 #left{
     float: left;
 
