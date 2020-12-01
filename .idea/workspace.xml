@@ -5,8 +5,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="added comments to files">
+    <list default="true" id="868f0843-a1a6-4a35-b44a-69ec3fcffda7" name="Default Changelist" comment="Fixed spelling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gti.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gti.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk1.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk2.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk3.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk4.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtipages/mk5.html" beforeDir="false" afterPath="$PROJECT_DIR$/gtipages/mk5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +93,7 @@
       <workItem from="1606352124891" duration="1194000" />
       <workItem from="1606693142876" duration="2595000" />
       <workItem from="1606781405255" duration="17000" />
+      <workItem from="1606837678764" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1605634654100</created>
@@ -358,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606695727686</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Fixed spelling">
+      <created>1606837732063</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1606837732063</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +438,8 @@
     <MESSAGE value="pop" />
     <MESSAGE value="fixed and added ico and carosuel. cant seem to fix images so *shrugs*" />
     <MESSAGE value="added comments to files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments to files" />
+    <MESSAGE value="Fixed spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed spelling" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605730332550">

@@ -18,10 +18,12 @@
 
 }
 
-#left img{
+#left{
     float: left;
+
 }
 
-#right img{
+#right{
     float: right;
+
 }
